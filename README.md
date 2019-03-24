@@ -3,9 +3,7 @@ RoDb is a caching datastore service for roblox, you dont directly interface with
 
 # How To
 
-
-<b> Api Calls </b>
-
+### Loading/Creating Datastores
 ```lua
 --This call loads a datastore or creates one if doesn't exist.
 --@Param datastoreName = String Value
